@@ -1,4 +1,4 @@
-## 🌎 ¿Qué es un Sitio Web?
+##  ¿Qué es un Sitio Web?
 
 Un sitio web se define como un **conjunto interrelacionado de archivos** —incluyendo páginas en formato HTML, recursos multimedia y hojas de estilo— alojados en un servidor web y accesibles mediante un navegador. Estos sitios representan una unidad informativa o comunicativa en el ecosistema digital, **según Britannica (s. f.)**.
 
@@ -8,7 +8,7 @@ Desde un enfoque comunicativo, los sitios web constituyen un medio digital esenc
 
 -----
 
-## ⚙️ Estructura Básica de HTML
+##  Estructura Básica de HTML
 
 **HTML (HyperText Markup Language)** es el lenguaje de marcado estándar para estructurar el contenido de las páginas web, definiendo la jerarquía semántica de los elementos. **Según Sharma y Aakanksha (2018)**, HTML "es el lenguaje de marcado estándar para desarrollar páginas web, describiendo la estructura del contenido y su significado semántico".
 
@@ -20,7 +20,7 @@ La separación de responsabilidades entre HTML (estructura), CSS (presentación)
 
 -----
 
-## 🧱 Elementos HTML Comunes
+##  Elementos HTML Comunes
 
 Los elementos básicos de HTML son los bloques constructivos de cualquier sitio web, incluyendo encabezados (`<h1>`–`<h6>`), párrafos (`<p>`), listas (`<ul>`, `<ol>`, `<li>`), imágenes (`<img>`) y enlaces (`<a>`).
 
@@ -30,7 +30,7 @@ Asimismo, el **Yale University Usability Lab (s. f.)** explica que la combinaci�
 
 -----
 
-## 🎨 Introducción a CSS
+##  Introducción a CSS
 
 **CSS (Cascading Style Sheets)** es el lenguaje responsable de controlar la presentación visual de los documentos HTML, permitiendo definir colores, fuentes y diseños adaptables. La **guía de MDN sobre los básicos de CSS (s. f. b)** indica que "CSS permite crear páginas web con un aspecto excelente aplicando estilos a los elementos HTML, asegurando consistencia y reusabilidad".
 
@@ -42,7 +42,7 @@ El uso coherente de hojas de estilo externas mejora la percepción de profesiona
 
 -----
 
-## 🎨 Estilos Simples en CSS
+##  Estilos Simples en CSS
 
 Para centrar elementos horizontalmente, una técnica clásica es aplicar `margin: 0 auto;` sobre un elemento de bloque con un ancho definido. De hecho, la **documentación oficial de MDN (1)** indica que `div { width:50%; margin:0 auto; }` "centrará el div horizontalmente".
 
@@ -62,7 +62,7 @@ Dentro del `<body>` se organizan los elementos semánticos: `<header>`, `<nav>`,
 
 -----
 
-## 🚨 Recomendaciones y Errores Comunes
+##  Recomendaciones y Errores Comunes
 
 Al iniciarse en el desarrollo web, es vital seguir buenas prácticas:
 
@@ -78,7 +78,7 @@ Al iniciarse en el desarrollo web, es vital seguir buenas prácticas:
 
 -----
 
-## 📚 Referencias
+##  Referencias
 
 
 Anderson, B. (2023). Separation of Concerns: Rethinking the Blend of HTML, JavaScript and CSS. Dev.to. Recuperado de https://dev.to/blakeanderson/separation-of-concerns-rethinking-the-blend-of-html-javascri%20pt-and-css-1bkp
