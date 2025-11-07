@@ -54,7 +54,7 @@ En cuanto a bordes, la propiedad abreviada `border` permite definir en una sola 
 
 -----
 
-## 📄 Creación de una Página Web Básica
+##  Creación de una Página Web Básica
 
 Una página web básica en HTML5 tiene una estructura estándar: **`<!DOCTYPE html>`**, **`<html>`**, **`<head>`** (con **`<meta charset="UTF-8">`** y **`<title>`**) y **`<body>`**.
 
